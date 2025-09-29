@@ -1,8 +1,3 @@
-/**
- * ملف JavaScript الرئيسي لموقع الأنظمة الاحترافية المتكاملة (IPS)
- * يحتوي على جميع الوظائف التفاعلية للموقع
- * بما في ذلك دعم اللغات المتعددة وتأثيرات التمرير والبطاقات التعريفية للمنتجات
- */
 
 // بيانات اللغات
 const languages = {
@@ -74,8 +69,8 @@ const languages = {
             title: 'إحصائياتنا',
             items: [
                 { number: '19', label: 'سنة خبرة', suffix: '+' },
-                { number: '500', label: 'عميل راضي', suffix: '+' },
-                { number: '1000', label: 'مشروع منجز', suffix: '+' },
+                { number: '#', label: 'عميل راضي', suffix: '+' },
+                { number: '#', label: 'مشروع منجز', suffix: '+' },
                 { number: '24', label: 'دعم فني', suffix: '/7' }
             ]
         },
@@ -196,8 +191,8 @@ const languages = {
             title: 'Our Statistics',
             items: [
                 { number: '19', label: 'Years Experience', suffix: '+' },
-                { number: '500', label: 'Happy Clients', suffix: '+' },
-                { number: '1000', label: 'Completed Projects', suffix: '+' },
+                { number: '#', label: 'Happy Clients', suffix: '+' },
+                { number: '#', label: 'Completed Projects', suffix: '+' },
                 { number: '24', label: 'Technical Support', suffix: '/7' }
             ]
         },
@@ -318,8 +313,8 @@ const languages = {
             title: 'Unsere Statistiken',
             items: [
                 { number: '19', label: 'Jahre Erfahrung', suffix: '+' },
-                { number: '500', label: 'Zufriedene Kunden', suffix: '+' },
-                { number: '1000', label: 'Abgeschlossene Projekte', suffix: '+' },
+                { number: '#', label: 'Zufriedene Kunden', suffix: '+' },
+                { number: '#', label: 'Abgeschlossene Projekte', suffix: '+' },
                 { number: '24', label: 'Technischer Support', suffix: '/7' }
             ]
         },
